@@ -1,0 +1,76 @@
+<DOCTYPE html>
+<html>
+<head>
+    <title>Music Library</title>
+</head>
+<body>
+
+<table border="2" width="700" align="center" cellpadding="10" cellspacing="10">
+
+    
+    <tr>
+        <td colspan="2" align="center">
+            <h2>Music Library</h2>
+        </td>
+    </tr>
+
+    
+    <tr>
+
+      
+        <td width="200" valign="top">
+
+            <a href="  https://www.youtube.com/embed/oosS1BkcO7w   " target="music">
+             1. Arjit Singh 
+            </a>
+            <br><br>
+
+            <a href="  https://www.youtube.com/embed/qgPnqi9ArAA  " target="music">
+               2. Talbindra 
+            </a>
+            <br><br>
+
+            <a href="   https://www.youtube.com/embed/ktf4y-sYboE    " target="music">
+              3.Sunanda sharma
+            </a>
+            <br><br>
+
+            <a href="   https://www.youtube.com/embed/n_FCrCQ6-bA   " target="music">
+           4. Sidhumus...
+            </a>
+            <br><br>
+
+            <a href="  https://www.youtube.com/embed/knGCfzm4jWs   " target="music">
+             5. Guru Ranbhava
+            </a>
+            <br><br>
+            <a href="https://www.youtube.com/embed/qvH8W8sS2GI" target="music">
+              6.esha mslviya
+                </a>
+                <br>
+        
+
+      
+        <td align="center">
+          
+          <iframe name="music" width="400" height="250"
+    src="https://www.youtube.com/embed/knGCfzm4jWs"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+            
+        </td>
+
+    </tr>
+
+  
+    <tr>
+        <td colspan="2" align="center">
+            &copy; 2026 music playstore!!
+        </td>
+    </tr>
+
+</table>
+
+</body>
+</html>
